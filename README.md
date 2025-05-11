@@ -14,6 +14,9 @@ Improve security and reliability of OpenPrinting projects by:
 - [ ] Creating seed corpora to guide fuzzing.
 - [ ] Integrating each project into OSS-Fuzz with build scripts and Docker configurations.
 
-Next steps:
+#### Next steps:
 - [Understanding the goipp project](https://github.com/mdimado/openprinting-go-python-fuzzing/blob/main/goipp.md)
+- [Understanding the ipp-usb project](https://github.com/mdimado/openprinting-go-python-fuzzing/blob/main/goipp.md)
+- [Understanding the pycups project](https://github.com/mdimado/openprinting-go-python-fuzzing/blob/main/goipp.md)
+- [Understanding the pyppd project](https://github.com/mdimado/openprinting-go-python-fuzzing/blob/main/goipp.md)
 
