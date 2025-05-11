@@ -1,5 +1,4 @@
-## Project Title:
-### Integrating OSS-Fuzz for Go-Based and Python-Based OpenPrinting Projects
+## Integrating OSS-Fuzz for Go-Based and Python-Based OpenPrinting Projects
 
 This project aims to integrate OSS-Fuzz into key OpenPrinting projects written in Go and Python to improve their security and robustness through fuzz testing. Fuzzing helps identify bugs, crashes, and memory issues by continuously feeding programs with unexpected or malformed inputs.
 
@@ -15,4 +14,6 @@ Improve security and reliability of OpenPrinting projects by:
 - [ ] Creating seed corpora to guide fuzzing.
 - [ ] Integrating each project into OSS-Fuzz with build scripts and Docker configurations.
 
+Next steps:
+- [Understanding the goipp project](https://github.com/mdimado/openprinting-go-python-fuzzing/blob/main/goipp.md)
 
