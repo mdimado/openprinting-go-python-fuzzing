@@ -9,7 +9,7 @@ Improve security and reliability of OpenPrinting projects by:
 - [ ] Writing fuzzers for key components in:
   - [goipp](https://github.com/OpenPrinting/goipp) – IPP protocol in Go
   - [ipp-usb](https://github.com/OpenPrinting/ipp-usb) – USB-over-IPP service for printers
-  - [pycups](https://github.com/OpenPrinting/pycups) – Python bindings for libcups
+  - [pycups](https://github.com/OpenPrinting/pycups) – Python bindings wrapping the CUPS API
   - [pyppd](https://github.com/OpenPrinting/pyppd) – PPD archive generator and decompressor
 - [ ] Creating seed corpora to guide fuzzing.
 - [ ] Integrating each project into OSS-Fuzz with build scripts and Docker configurations.
